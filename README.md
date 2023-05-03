@@ -27,3 +27,5 @@ GoJet includes a powerful email library that can be used to send email messages 
 ## Benefits
 
 With these additional features, GoJet makes it easy for developers to build complex, feature-rich applications without having to rely on external libraries or services. Its focus on performance and scalability, combined with its comprehensive toolset, make it an ideal choice for building modern web applications.
+
+update docs
